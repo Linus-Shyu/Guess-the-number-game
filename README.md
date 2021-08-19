@@ -53,7 +53,8 @@ Use mainstream language python
 
 ### Project display
 
-![图片](/Users/linuxufaxin/Desktop/截屏2021-08-19 下午7.50.53.png)
+<img width="1680" alt="截屏2021-08-19 下午7 50 53" src="https://user-images.githubusercontent.com/83543818/130066467-8a8f0572-fb3e-47fe-851f-d7388defb99d.png">
+
 
 ### Developer email
 
